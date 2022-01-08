@@ -7,7 +7,7 @@ interface UserDao {
 
 
     @Query("SELECT * FROM userinfo ORDER by id DESC" )
-    fun getAllUserInfo(): List<UserEntity>
+    fun getAllUserInfo(): List<UserEntity>?
 
     @Insert
     fun insertUser(user: UserEntity)
