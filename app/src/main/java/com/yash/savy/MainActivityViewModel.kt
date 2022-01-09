@@ -12,6 +12,7 @@ class MainActivityViewModel(app: Application): AndroidViewModel(app){
 
     init {
         allUsers = MutableLiveData()
+        getAllUsers()
     }
     fun getAllUsersObservers() :  MutableLiveData<List<UserEntity>> {
         return allUsers

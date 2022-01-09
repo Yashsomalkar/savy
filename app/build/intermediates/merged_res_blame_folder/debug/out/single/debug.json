@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -26,6 +26,14 @@
     {
         "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\layout_recyclerview_row.xml.flat",
         "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\layout\\recyclerview_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_delete.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\drawable-anydpi\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
     },
     {
         "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -56,8 +64,16 @@
         "source": "C:\\Users\\LENOVO\\Savy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
         "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
     },
     {
         "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -66,5 +82,9 @@
     {
         "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
         "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Savy\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\LENOVO\\Savy\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
     }
 ]
