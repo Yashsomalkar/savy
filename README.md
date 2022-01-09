@@ -25,7 +25,7 @@ The app offers a very simple and engaging layout that allows students and corpor
 <i>Room Database& LiveData</i> : We also use LiveData to update and preserve any changes made by the user, as well as to update local databases through Room..<br>
 <i>Constraint Layout</i> :The majority of the app's activities employ a flexible constraint layout that is simple to adjust for different screen sizes.<br>
 <i>ViewModel</i> : The ViewModel class is in charge of preparing and managing data for an Activity.<br>
-<i>Recyclerview/i> : This helps to represent a scrolable list of email ID's entered by the User<br>
+<i>Recyclerview</i> : This helps to represent a scrolable list of email ID's entered by the User<br>
 
 The App has two screens. <br>
 You can access this app from :<br>
