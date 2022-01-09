@@ -39,7 +39,7 @@ class RecyclerViewAdapter(val listener: RowClickListener): RecyclerView.Adapter<
 
         val tvName = view.tvName
         val tvEmail = view.tvEmail
-        val tvPhone = view.tvPhone
+
         val deleteUserID = view.deleteUserID
 
         fun bind(data: UserEntity) {
@@ -48,7 +48,7 @@ class RecyclerViewAdapter(val listener: RowClickListener): RecyclerView.Adapter<
             tvEmail.text = data.email
 
 
-            tvPhone.text = data.phone
+
 
             deleteUserID.setOnClickListener {
                 listener.onDeleteUserClickListener(data)
