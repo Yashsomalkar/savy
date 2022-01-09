@@ -7,6 +7,7 @@ import com.yash.savy.db.RoomAppDb
 import com.yash.savy.db.UserEntity
 
 class MainActivityViewModel(app: Application): AndroidViewModel(app){
+
     lateinit var allUsers : MutableLiveData<List<UserEntity>>
 
     init {
