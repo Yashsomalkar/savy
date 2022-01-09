@@ -8,7 +8,7 @@ import com.yash.savy.db.UserEntity
 
 class MainActivityViewModel(app: Application): AndroidViewModel(app){
 
-    lateinit var allUsers : MutableLiveData<List<UserEntity>>
+    var allUsers : MutableLiveData<List<UserEntity>>
 
     init {
         allUsers = MutableLiveData()
